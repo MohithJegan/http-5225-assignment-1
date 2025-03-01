@@ -10,7 +10,7 @@ On the webpage, movies are displayed along with their associated studio details.
 
 ## Database Schema
 
-### 🎥 **Movies Table**
+### **Movies Table**
 | Column         | Data Type  | Description |
 |---------------|-----------|-------------|
 | `movie_id`    | INT (PK)  | Unique ID for each movie |
