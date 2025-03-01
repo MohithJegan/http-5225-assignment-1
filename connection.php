@@ -6,3 +6,5 @@ if (!$connect) {
   echo 'Error Message: ' . mysqli_connect_error();
   exit;
 }
+
+?>
