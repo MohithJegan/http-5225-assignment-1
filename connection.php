@@ -1,5 +1,5 @@
 <?php
-$connect = mysqli_connect('sql107.infinityfree.com', 'if0_38425702', '6JfNUyyvX5c6v', 'if0_38425702_movies');
+$connect = mysqli_connect('sql101.infinityfree.com', 'if0_38430744', 'RnLn0l47tRwv', 'if0_38430744_movies');
 
 if (!$connect) {
   echo 'Error Code: ' . mysqli_connect_errno();
