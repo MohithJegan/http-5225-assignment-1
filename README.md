@@ -34,6 +34,6 @@ On the webpage, movies are displayed along with their associated studio details.
 The dataset is taken from **Kaggle**.
 
 ## Deployment URL
-**Access the project here:** [Movie Studio Database](http://mohithjegan.infinityfreeapp.com/?i=1)
+**Access the project here:** [Movie Studio Database](http://phpassignment.infinityfreeapp.com/?i=1)
 
 
